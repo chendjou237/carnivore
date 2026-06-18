@@ -1,0 +1,6 @@
+{
+  "name": "Le Carnivore",
+  "description": "Excellence Culinaire Africaine. Commandes gastronomiques en ligne, paiement sécurisé Mobile Money et suivi interactif en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
