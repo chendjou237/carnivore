@@ -29,8 +29,8 @@ export default function Navbar({
       id="main-header"
       className={`fixed top-0 w-full flex justify-between items-center px-6 md:px-16 py-4 z-50 transition-all duration-300 ${
         darkTheme
-          ? 'bg-[#1A1410]/85 backdrop-blur-xl border-b border-white/5 text-white shadow-lg'
-          : 'bg-white/80 backdrop-blur-xl border-b border-[#E5E5E5] text-[#1b1b1b] shadow-sm'
+          ? 'bg-red-700/90 backdrop-blur-xl border-b border-red-500/40 text-white shadow-lg'
+          : 'bg-red-600/90 backdrop-blur-xl border-b border-red-500/40 text-white shadow-sm'
       }`}
     >
       {/* Brand Logo */}
